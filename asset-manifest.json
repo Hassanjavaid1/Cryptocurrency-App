@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Cryptocurrency-App/static/css/main.61ca7680.css",
+    "main.js": "/Cryptocurrency-App/static/js/main.0e3c1381.js",
+    "static/js/716.eba9e500.chunk.js": "/Cryptocurrency-App/static/js/716.eba9e500.chunk.js",
+    "static/js/712.cd31e25c.chunk.js": "/Cryptocurrency-App/static/js/712.cd31e25c.chunk.js",
+    "static/css/77.8069c06a.chunk.css": "/Cryptocurrency-App/static/css/77.8069c06a.chunk.css",
+    "static/js/77.1046e4af.chunk.js": "/Cryptocurrency-App/static/js/77.1046e4af.chunk.js",
+    "static/css/792.8069c06a.chunk.css": "/Cryptocurrency-App/static/css/792.8069c06a.chunk.css",
+    "static/js/792.e5aa1e74.chunk.js": "/Cryptocurrency-App/static/js/792.e5aa1e74.chunk.js",
+    "static/js/592.2925115d.chunk.js": "/Cryptocurrency-App/static/js/592.2925115d.chunk.js",
+    "static/media/banner-image.png": "/Cryptocurrency-App/static/media/banner-image.456d11976e8bc330a3b3.png",
+    "static/media/single-image2.png": "/Cryptocurrency-App/static/media/single-image2.76fd2af6b9e3f5e0f9f5.png",
+    "static/media/single-image1.png": "/Cryptocurrency-App/static/media/single-image1.9665e3a0f2d5ab5c4f6c.png",
+    "index.html": "/Cryptocurrency-App/index.html",
+    "main.61ca7680.css.map": "/Cryptocurrency-App/static/css/main.61ca7680.css.map",
+    "main.0e3c1381.js.map": "/Cryptocurrency-App/static/js/main.0e3c1381.js.map",
+    "716.eba9e500.chunk.js.map": "/Cryptocurrency-App/static/js/716.eba9e500.chunk.js.map",
+    "712.cd31e25c.chunk.js.map": "/Cryptocurrency-App/static/js/712.cd31e25c.chunk.js.map",
+    "77.8069c06a.chunk.css.map": "/Cryptocurrency-App/static/css/77.8069c06a.chunk.css.map",
+    "77.1046e4af.chunk.js.map": "/Cryptocurrency-App/static/js/77.1046e4af.chunk.js.map",
+    "792.8069c06a.chunk.css.map": "/Cryptocurrency-App/static/css/792.8069c06a.chunk.css.map",
+    "792.e5aa1e74.chunk.js.map": "/Cryptocurrency-App/static/js/792.e5aa1e74.chunk.js.map",
+    "592.2925115d.chunk.js.map": "/Cryptocurrency-App/static/js/592.2925115d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61ca7680.css",
+    "static/js/main.0e3c1381.js"
+  ]
+}
