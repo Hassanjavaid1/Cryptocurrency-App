@@ -1,0 +1,89 @@
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3.5rem;
+    margin-top: 9rem;
+}
+.result_img{
+    width: 40%;
+}
+h3{
+    font-size: 3rem;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.result_para{
+    font-size: 1.3rem;
+    opacity: 0.7;
+    line-height: 1.7;
+
+}
+.result_text{
+    width: 34%;
+    margin-top: 5rem;
+}
+
+
+/* ///////////////////
+///////////////////
+///////////////////
+/////////////////// */
+
+.main_message{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h4{
+    font-size: 3rem;
+    font-family: sans-serif;
+    font-weight: 600;
+    text-align: center;
+
+}
+.message_detail{
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    text-align: center;
+    opacity: 0.7;
+
+}
+.message_title{
+    width: 39rem;
+    line-height: 1.9;
+
+}
+#message{
+    padding: 1rem;
+    width: 27rem;
+    background: transparent;
+    font-size: 1.1rem;
+    font-family: sans-serif;
+    font-weight: 600;
+    border: 2px solid #45E1AD;
+    border-radius: 0rem;
+}
+#message:focus{
+    outline: none;
+}
+#subscribe{
+    background: linear-gradient(45deg, #41dcb1, #0cdb6a);
+    color: black;
+    border: 0px;
+    cursor: pointer;
+    font-family: sans-serif;
+    margin-left: 0.3rem;
+    border-radius: 0;
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding: 1.1rem 1.2rem;
+}
+#subscribe:focus{
+    outline: none;
+}
+.message_container{
+    margin-top: 11rem;
+    margin-bottom: 6rem;
+}

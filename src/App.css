@@ -1,0 +1,12 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    color: white;
+    box-sizing: border-box;
+}
+body{
+    background-color: #151515;
+}
+body::-webkit-scrollbar{
+    background-color: #48D8AB;
+}

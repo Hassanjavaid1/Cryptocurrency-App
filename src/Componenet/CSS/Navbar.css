@@ -1,0 +1,149 @@
+.nav_content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 14rem;
+  margin-top: 1rem;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul {
+  display: flex;
+  list-style: none;
+  gap: 3rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+li:hover {
+  color: #46e4af;
+  transition: 0.5s;
+}
+.nav_btn {
+  background: linear-gradient(45deg, #41dcb1, #0cdb6a);
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 1rem 2rem;
+  border-radius: 0.6rem;
+  color: black;
+  border: 0px;
+  cursor: pointer;
+}
+.btns {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+}
+
+/* ///////////////////////
+///////////////////////
+///////////////////////
+/////////////////////// */
+
+.banner_content {
+  display: flex;
+  gap: 4rem;
+  justify-content: center;
+  margin-top: 7rem;
+  align-items: center;
+}
+#banner_img {
+  height: 26rem;
+  border: 0.3rem solid #565656;
+  border-radius: 100%;
+  padding: 1.5rem;
+}
+h1 {
+  font-size: 4rem;
+}
+.main_content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 38%;
+}
+.para {
+  font-size: 1.4rem;
+  opacity: 0.7;
+  line-height: 1.6;
+}
+.banner_btn {
+  background: linear-gradient(45deg, #41dcb1, #0cdb6a);
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 1rem 2.7rem;
+  border-radius: 0.3rem;
+  color: black;
+  border: 0px;
+  cursor: pointer;
+  font-family: sans-serif;
+  margin-top: 1rem;
+}
+
+/* /////////////////
+/////////////////
+///////////////// */
+
+.associate_brands {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 8rem;
+  gap: 2rem;
+}
+.brand {
+  width: 12rem;
+}
+
+/* ////////////////
+////////////////
+////////////////
+//////////////// */
+a {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+#table_container {
+  text-align: center;
+  width: 81%;
+  margin: auto;
+}
+tr {
+  font-family: sans-serif;
+  font-size: 0.9rem;
+}
+h2 {
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 2.2rem;
+}
+.table_main_container {
+  margin-top: 5rem;
+}
+#date {
+  text-align: center;
+  color: #ffffff;
+  font-size: 0.9rem;
+  font-weight: bold;
+  opacity: 0.6;
+  font-size: 1rem;
+}
+.table-striped > tbody > tr:nth-of-type(odd) > * {
+  --bs-table-color-type: var(--bs-table-striped-color);
+  --bs-table-bg-type: #31353800;
+}
+
+#loader {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 5%;
+  font-weight: bold;
+}
